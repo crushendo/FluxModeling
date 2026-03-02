@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipython
+scipy
+plotly
+mysql-connector-python
+python-dotenv
+sqlalchemy
+xgboost
+shap
